@@ -5,6 +5,7 @@ meditation and mindfulness online resources, ideally free and no sign-up require
 * [QuietKit](https://www.quietkit.com) (mp3) short guided meditation on the breath with different lengths available; with ambient background (≤10mins)
 * [self-compassion.org](https://self-compassion.org/category/exercises/#guided-meditations) (mp3) 7 self-compassion meditations by Dr. Kristin Neff (5-20mins)
 * [SF Center for Acceptance and Commitment Therapy](https://sf-act.com/resources.php) (mp3) 29 guided meditations on the breath, acceptance and compassion (3-30mins)
+* [UCLA Mindful Awareness Research Center](https://www.uclahealth.org/marc/mindful-meditations) (mp3) 8 guided meditations by UCLA MARC's Director of Mindfulness Education, Diana Winston ![alt text][ccbyncnd] (3-20mins)
 * unreviewed [Calm.com - Soothing Meditations](https://www.calm.com/blog/take-a-deep-breath) (str) 8 "Soothing meditations" (10-20mins)
 
 ## readings 📖️
@@ -40,3 +41,5 @@ Contributions welcome!
 
 ## license 📜️
 GPLv3
+
+[ccbyncnd]: https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png "CC BY-NC-ND"
