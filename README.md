@@ -18,7 +18,7 @@ meditation and mindfulness online resources, ideally free and no sign-up require
 
 
 
-## soundscapes 🌳️⛈️🐦️
+## soundscapes 🔔️🌳️⛈️🐦️
 * [Silent Meditation Timers](https://www.the-guided-meditation-site.com/zen-meditation-timer.html) (mp3) Bells and Gongs for Silent meditations of different lengths (5-60mins)
 * [A Soft Murmur](https://asoftmurmur.com/) (str/app) Adjustable ambient noisescapes
 * [noize.ml](https://noize.ml/) (str) Multiple background/white noise soundscapes with different themes
@@ -31,9 +31,10 @@ meditation and mindfulness online resources, ideally free and no sign-up require
 
 ## legend 🔖️
 (mp3) mp3 file for download  
+(rss) rss podcast feed
+(sign) sign-up required
 (str) stream  
 (yt) youtube  
-(sign) sign-up required
 
 ## ideas / todo 💡️
 - [ ] specify if narrator with male or female voice
