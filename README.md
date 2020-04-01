@@ -1,5 +1,5 @@
 # 🙏️ awesome-meditation 
-meditation and mindfulness online resources, ideally free and no sign-up required
+free online resources on meditation and mindfulness. ideally free, downloadable and no sign-up required
 
 ## 🎵️ guided meditations 
 * [QuietKit](https://www.quietkit.com) (mp3) short guided meditation on the breath with different lengths available; with ambient background (≤10mins)
@@ -45,7 +45,7 @@ meditation and mindfulness online resources, ideally free and no sign-up require
 ## 💡️ ideas / todo 
 - [ ] specify if narrator with male or female voice
 - [ ] review links from http://sf-act.com/resources_Mindfulness.php
-- [ ] review https://dharmaseed.org/ > e.g. search "guided meditation by:xyz"; rss-able?
+- [x] review https://dharmaseed.org/ > e.g. search "guided meditation by:xyz"; rss-able? --> to difficult to identify good content... maybe add later to new section?!
 - [x] add ⭐️ ratings for reommended resources
 - [x] add emojis for easier navigation/identification
 
