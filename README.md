@@ -28,6 +28,7 @@ free online resources on meditation and mindfulness. ideally free, downloadable 
 ## 📻️ podcasts 
 * ⭐️ [Ten Percent Happier](https://www.tenpercent.com/podcast/) (rss) Podcast by ABC TV host Dan Harris and guests (>1hr)
 * [Making Sense](https://samharris.org/podcast/) (rss/yt) Podcast by atheist author and neuroscientist Sam Harris and guestes (>1hr)
+* [Tara Brach's Podcast](https://www.tarabrach.com/feed/podcast/) ([rss](https://www.tarabrach.com/feed/podcast/)/[yt](https://www.youtube.com/channel/UCE3E-d8dUieqIbKYIO5-pFg)) This features a meditation (<20mins) and a talk (<1hr) every week 
 
 ## 📱️ apps
 * …
