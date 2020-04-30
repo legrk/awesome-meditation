@@ -13,6 +13,7 @@ free online resources on meditation and mindfulness. ideally free, downloadable 
 * [How to Meditate by SpiritRock.org](https://www.spiritrock.org/intro-to-insight-2016) (html) Short introduction to insight , mindfulness and loving-kindness meditation with instructions (short)
 * [Mindfulness in Plain English](https://mindfulness-in-plain-english.github.io/) (html/[epub](https://jared.updike.org/posts/2019-04-02-meditation-in-plain-english.html)) Henepola Gunaratana on insight meditation for the lay person (long)
 * [Radical Compassion](https://insighttimer.com/blog/radical-compassion-part-1-loving-ourselves-and-our-world-into-healing/) (html/str) Tara Brach on Radical Compassion and her 4-step approach - RAIN (long)
+* [Five Ways to Know Yourself](https://www.shinzen.org/wp-content/uploads/2016/08/FiveWaystoKnowYourself_ver1.6.pdf) (pdf) A very analytical introduction to mindfulness by Shinzen Young (long)
 
 ## 🏫️ courses 
 * ⭐️ [Mindfulness Daily by Tara Brach and Jack Kornfield ](https://www.tarabrach.com/mindfulness-daily/) (str/sign) 40-day audio-guided training covering Mindful Basics, Emotional Intelligence, Resilience, Healing and Inner Freedom as well as Mindful Living (<15mins)
