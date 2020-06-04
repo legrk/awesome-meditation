@@ -13,11 +13,11 @@ free online resources on meditation and mindfulness. ideally free, downloadable 
 * [How to Meditate by SpiritRock.org](https://www.spiritrock.org/intro-to-insight-2016) (html) Short introduction to insight , mindfulness and loving-kindness meditation with instructions (short)
 * [Mindfulness in Plain English](https://mindfulness-in-plain-english.github.io/) (html/[epub](https://jared.updike.org/posts/2019-04-02-meditation-in-plain-english.html)) Henepola Gunaratana on insight meditation for the lay person (long)
 * [Radical Compassion](https://insighttimer.com/blog/radical-compassion-part-1-loving-ourselves-and-our-world-into-healing/) (html/str) Tara Brach on Radical Compassion and her 4-step approach - RAIN (long)
-* [Five Ways to Know Yourself](https://www.shinzen.org/wp-content/uploads/2016/08/FiveWaystoKnowYourself_ver1.6.pdf) (pdf) A very analytical introduction to mindfulness by Shinzen Young (long)
+* [Five Ways to Know Yourself](https://www.shinzen.org/wp-content/uploads/2016/08/FiveWaystoKnowYourself_ver1.6.pdf) (pdf) A very analytical introduction and approach to mindfulness by Shinzen Young (long)
 
 ## 🏫️ courses 
-* ⭐️ [Mindfulness Daily by Tara Brach and Jack Kornfield ](https://www.tarabrach.com/mindfulness-daily/) (str/sign) 40-day audio-guided training covering Mindful Basics, Emotional Intelligence, Resilience, Healing and Inner Freedom as well as Mindful Living (<15mins)
-* TO REVIEW: [The 30 Day Meditation Challenge](https://oneminddharma.com/30-day-meditation-challenge/) (yt) One Mind Dharma’s meditation challenge is the perfect way to kickstart your practice and begin investigating mindfulness, compassion, and meditation (10-25mins)
+* ⭐️ [Mindfulness Daily by Tara Brach and Jack Kornfield](https://www.tarabrach.com/mindfulness-daily/) (str/sign) 40-day audio-guided training covering Mindful Basics, Emotional Intelligence, Resilience, Healing and Inner Freedom as well as Mindful Living; each session starts with a ~5mins talk and is followed by a meditation practice (<15mins)
+* [The 30 Day Meditation Challenge](https://oneminddharma.com/30-day-meditation-challenge/) (yt) Guided meditations on mindfulness and compassion (10-25mins)
 * TO REVIEW: [Home Retreat](https://jackkornfield.com/wp-content/uploads/2020/03/2020-03-16-Home-Retreat.pdf) Home Retreat schedule with links to content (J. Kornfield, T. Brach, T. Goodman) (<6days)
 
 ## 🔔️🌳️⛈️🐦️ soundscapes 
@@ -28,8 +28,7 @@ free online resources on meditation and mindfulness. ideally free, downloadable 
 
 ## 📻️ podcasts 
 * ⭐️ [Ten Percent Happier](https://www.tenpercent.com/podcast/) (rss) Podcast by ABC TV host Dan Harris and guests (>1hr)
-* [Making Sense](https://samharris.org/podcast/) (rss/yt) Podcast by atheist author and neuroscientist Sam Harris and guestes (>1hr)
-* [Tara Brach's Podcast](https://www.tarabrach.com/feed/podcast/) ([rss](https://www.tarabrach.com/feed/podcast/)/[yt](https://www.youtube.com/channel/UCE3E-d8dUieqIbKYIO5-pFg)) This features a meditation (<20mins) and a talk (<1hr) every week 
+* [Tara Brach's Podcast](https://www.tarabrach.com/feed/podcast/) ([rss](https://www.tarabrach.com/feed/podcast/)/[yt](https://www.youtube.com/channel/UCE3E-d8dUieqIbKYIO5-pFg)) This podcasts features a meditation (<20mins) and a talk (<1hr) every week 
 
 ## 📱️ apps
 * …
@@ -46,7 +45,7 @@ free online resources on meditation and mindfulness. ideally free, downloadable 
 
 ## 💡️ ideas / todo 
 - [ ] specify if narrator with male or female voice
-- [ ] review links from http://sf-act.com/resources_Mindfulness.php
+- [x] review links from http://sf-act.com/resources_Mindfulness.php
 - [x] review https://dharmaseed.org/ > e.g. search "guided meditation by:xyz"; rss-able? --> to difficult to identify good content... maybe add later to new section?!
 - [x] add ⭐️ ratings for reommended resources
 - [x] add emojis for easier navigation/identification
