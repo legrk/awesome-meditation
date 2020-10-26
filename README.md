@@ -2,7 +2,7 @@
 free online resources on meditation and mindfulness. ideally free, downloadable and no sign-up required
 
 ## 🎵️ guided meditations 
-* [QuietKit](https://www.quietkit.com) (mp3) short guided meditation on the breath with different lengths available; with ambient background (≤10mins)
+* ⭐️ [QuietKit](https://www.quietkit.com) (mp3) short guided meditation on the breath with different lengths available; with ambient background (≤10mins)
 * [self-compassion.org](https://self-compassion.org/category/exercises/#guided-meditations) (mp3) 7 self-compassion meditations by Dr. Kristin Neff (5-20mins)
 * [SF Center for Acceptance and Commitment Therapy](https://sf-act.com/resources.php) (mp3) 29 guided meditations on the breath, acceptance and compassion (3-30mins)
 * [UCLA Mindful Awareness Research Center](https://www.uclahealth.org/marc/mindful-meditations) (mp3) 8 guided meditations by UCLA MARC's Director of Mindfulness Education, Diana Winston ![alt text][ccbyncnd] (3-20mins)
@@ -10,10 +10,10 @@ free online resources on meditation and mindfulness. ideally free, downloadable 
 * TO REVIEW: [Calm.com - Soothing Meditations](https://www.calm.com/blog/take-a-deep-breath) (str) 8 "Soothing meditations" (10-20mins)
 
 ## 📖️ readings 
-* [How to Meditate by SpiritRock.org](https://www.spiritrock.org/intro-to-insight-2016) (html) Short introduction to insight , mindfulness and loving-kindness meditation with instructions (short)
+* ⭐️ [How to find your mindfulness](https://psyche.co/guides/how-to-find-the-mindfulness-practice-that-works-for-you) (html) What is mindfulness and where can one individually find and live it - from psyche.co (medium)
+* [How to Meditate by SpiritRock.org](https://www.spiritrock.org/intro-to-insight-2016) (html) Short introduction to insight, mindfulness and loving-kindness meditation with instructions (short)
 * [Mindfulness in Plain English](https://mindfulness-in-plain-english.github.io/) (html/[epub](https://jared.updike.org/posts/2019-04-02-meditation-in-plain-english.html)) Henepola Gunaratana on insight meditation for the lay person (long)
 * [Radical Compassion](https://insighttimer.com/blog/radical-compassion-part-1-loving-ourselves-and-our-world-into-healing/) (html/str) Tara Brach on Radical Compassion and her 4-step approach - RAIN (long)
-* [Five Ways to Know Yourself](https://www.shinzen.org/wp-content/uploads/2016/08/FiveWaystoKnowYourself_ver1.6.pdf) (pdf) A very analytical introduction and approach to mindfulness by Shinzen Young (long)
 
 ## 🏫️ courses 
 * ⭐️ [Mindfulness Daily by Tara Brach and Jack Kornfield](https://www.tarabrach.com/mindfulness-daily/) (str/sign) 40-day audio-guided training covering Mindful Basics, Emotional Intelligence, Resilience, Healing and Inner Freedom as well as Mindful Living; each session starts with a ~5mins talk and is followed by a meditation practice (<15mins)
@@ -23,6 +23,7 @@ free online resources on meditation and mindfulness. ideally free, downloadable 
 ## 🔔️🌳️⛈️🐦️ soundscapes 
 * ⭐️ [A Soft Murmur](https://asoftmurmur.com/) (str/app) Adjustable ambient noisescapes
 * [Silent Meditation Timers](https://www.the-guided-meditation-site.com/zen-meditation-timer.html) (mp3) Bells and Gongs for Silent meditations of different lengths (5-60mins)
+* [generative.fm](https://generative.fm/) (str/mp3) Ambient generative music to stream or download, some pieces are very calm others more engaging 
 * [noize.ml](https://noize.ml/) (str) Multiple background/white noise soundscapes with different themes
 * [Coffitivity](https://coffitivity.com/) (str) Different cafe ambient soundscapes
 
