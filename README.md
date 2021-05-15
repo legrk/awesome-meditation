@@ -6,8 +6,6 @@ free online resources on meditation and mindfulness. ideally free, downloadable 
 * [self-compassion.org](https://self-compassion.org/category/exercises/#guided-meditations) (mp3) 7 self-compassion meditations by Dr. Kristin Neff (5-20mins)
 * [SF Center for Acceptance and Commitment Therapy](https://sf-act.com/resources.php) (mp3) 29 guided meditations on the breath, acceptance and compassion (3-30mins)
 * [UCLA Mindful Awareness Research Center](https://www.uclahealth.org/marc/mindful-meditations) (mp3) 8 guided meditations by UCLA MARC's Director of Mindfulness Education, Diana Winston ![alt text][ccbyncnd] (3-20mins)
-* TO REVIEW: [Guided Meditations by Jack Kornfield](https://www.jackkornfield.com/meditations/) (str) Guided meditations by Jack Kornfield (3-20mins)
-* TO REVIEW: [Calm.com - Soothing Meditations](https://www.calm.com/blog/take-a-deep-breath) (str) 8 "Soothing meditations" (10-20mins)
 
 ## 📖️ readings 
 * ⭐️ [How to find your mindfulness](https://psyche.co/guides/how-to-find-the-mindfulness-practice-that-works-for-you) (html) What is mindfulness and where can one individually find and live it - from psyche.co (medium)
@@ -18,13 +16,11 @@ free online resources on meditation and mindfulness. ideally free, downloadable 
 ## 🏫️ courses 
 * ⭐️ [Mindfulness Daily by Tara Brach and Jack Kornfield](https://www.tarabrach.com/mindfulness-daily/) (str/sign) 40-day audio-guided training covering Mindful Basics, Emotional Intelligence, Resilience, Healing and Inner Freedom as well as Mindful Living; each session starts with a ~5mins talk and is followed by a meditation practice (<15mins)
 * [The 30 Day Meditation Challenge](https://oneminddharma.com/30-day-meditation-challenge/) (yt) Guided meditations on mindfulness and compassion (10-25mins)
-* TO REVIEW: [Home Retreat](https://jackkornfield.com/wp-content/uploads/2020/03/2020-03-16-Home-Retreat.pdf) Home Retreat schedule with links to content (J. Kornfield, T. Brach, T. Goodman) (<6days)
 
 ## 🔔️🌳️⛈️🐦️ soundscapes 
 * ⭐️ [A Soft Murmur](https://asoftmurmur.com/) (str/app) Adjustable ambient noisescapes
 * [Silent Meditation Timers](https://www.the-guided-meditation-site.com/zen-meditation-timer.html) (mp3) Bells and Gongs for Silent meditations of different lengths (5-60mins)
 * [generative.fm](https://generative.fm/) (str/mp3) Ambient generative music to stream or download, some pieces are very calm others more engaging 
-* [noize.ml](https://noize.ml/) (str) Multiple background/white noise soundscapes with different themes
 * [Coffitivity](https://coffitivity.com/) (str) Different cafe ambient soundscapes
 
 ## 📻️ podcasts 
@@ -45,11 +41,7 @@ free online resources on meditation and mindfulness. ideally free, downloadable 
 (yt) youtube  
 
 ## 💡️ ideas / todo 
-- [ ] specify if narrator with male or female voice
-- [x] review links from http://sf-act.com/resources_Mindfulness.php
-- [x] review https://dharmaseed.org/ > e.g. search "guided meditation by:xyz"; rss-able? --> to difficult to identify good content... maybe add later to new section?!
-- [x] add ⭐️ ratings for reommended resources
-- [x] add emojis for easier navigation/identification
+* ...
 
 
 ## ☝️ contribute 
