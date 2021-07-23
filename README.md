@@ -28,12 +28,13 @@ free online resources on meditation and mindfulness. ideally free, downloadable 
 * [Tara Brach's Podcast](https://www.tarabrach.com/feed/podcast/) ([rss](https://www.tarabrach.com/feed/podcast/)/[yt](https://www.youtube.com/channel/UCE3E-d8dUieqIbKYIO5-pFg)) This podcasts features a meditation (<20mins) and a talk (<1hr) every week 
 
 ## 📱️ apps
-* …
+* ⭐️ [Medito App](https://medito.app/) (and/ios/mp3) Free and open-source meditation app by the [Medito Foundation](https://meditofoundation.org/), with lots of guided meditations, e.g. 30d challenge, loving-kindness, beginner course. ![alt text][ccbyncsa]
 
 ## 🔖️ legend 
-(app) mobile app   
+(and) android app   
 (epub) ebook for download  
-(html) read in browser  
+(html) read in browser
+(ios) ios app
 (mp3) mp3 file for download  
 (rss) rss podcast feed  
 (sign) sign-up required  
@@ -51,3 +52,4 @@ Contributions welcome!
 GPLv3
 
 [ccbyncnd]: https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png "CC BY-NC-ND"
+[ccbyncsa]: https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png "CC BY-NC-SA"
