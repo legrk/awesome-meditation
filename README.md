@@ -33,8 +33,8 @@ free online resources on meditation and mindfulness. ideally free, downloadable 
 ## 🔖️ legend 
 (and) android app   
 (epub) ebook for download  
-(html) read in browser
-(ios) ios app
+(html) read in browser   
+(ios) ios app   
 (mp3) mp3 file for download  
 (rss) rss podcast feed  
 (sign) sign-up required  
