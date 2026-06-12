@@ -30,6 +30,10 @@ free online resources on meditation and mindfulness. ideally free, downloadable 
 ## 📱️ apps
 * ⭐️ [Medito App](https://medito.app/) (and/ios/mp3) Free and open-source meditation app by the [Medito Foundation](https://meditofoundation.org/), with lots of guided meditations, e.g. 30d challenge, loving-kindness, beginner course. ![alt text][ccbyncsa]
 
+
+## ⚡️ tools for acute moments
+* [半分钟魂归守舍](https://an2025061.github.io/banfenzhong/) (html) Free, offline, no sign-up: 30-second body-awareness interrupt for fight-or-flight / emotional replay. Double-click the HTML file and it just works. Open source: [AN2025061/banfenzhong](https://github.com/AN2025061/banfenzhong)
+
 ## 🔖️ legend 
 (and) android app   
 (epub) ebook for download  
